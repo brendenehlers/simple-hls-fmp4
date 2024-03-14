@@ -1,6 +1,6 @@
 # Simple HLS with fMP4
 
-A simple web server that serves fMP4 files over HTTP. Done as a test to learn how fMP4 works.
+A simple web server that serves fMP4 files over HTTP. 
 
 Use the following `ffmpeg` command from the video dir to build the fragments
 ```sh
